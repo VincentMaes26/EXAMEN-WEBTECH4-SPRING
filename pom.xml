@@ -29,6 +29,19 @@
 		<artifactId>h2</artifactId>
 		<scope>runtime</scope>
 	</dependency>
+	
+	<dependency>
+    	<groupId>javax.json</groupId>
+        <artifactId>javax.json-api</artifactId>
+        <version>1.1.2</version>
+    </dependency>
+    
+    <dependency>
+    	<groupId>com.fasterxml.jackson.core</groupId>
+    	<artifactId>jackson-databind</artifactId>
+    	<version>2.5.1</version>
+	</dependency>
+	
     <!-- LiveReload -->
 	<dependency>
 		<groupId>org.springframework.boot</groupId>
