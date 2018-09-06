@@ -15,6 +15,9 @@
 <body>
 
 <div class='well'>
+<div class="page-header">
+	<p>Enter your first and last name to generate a joke</p>
+</div>
 <br/>
 <form method=POST action='joke_post'>
 		<div class='form-group row'>

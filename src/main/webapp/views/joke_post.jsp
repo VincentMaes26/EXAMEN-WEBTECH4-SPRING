@@ -15,7 +15,7 @@
 <body>
 
 <div class='well'>
-	<h2>Your joke: </h2>
+	<h2>Generated joke: </h2>
 	
 	<p>${joke}</p>
 </div>
